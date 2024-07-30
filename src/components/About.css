@@ -1,0 +1,102 @@
+/* About.css */
+/* .about-bg {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCeju03n7p4g8UVAECZhx2zY6ukEnHAhMOBA&s'); /* Update with your image path */
+    /* background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .about-container {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+    max-width: 800px;
+    text-align: left;
+  }
+  
+  .about-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .about-container p {
+    margin-bottom: 10px;
+  } 
+   */
+
+   /* About.css */
+/* .about-bg {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCeju03n7p4g8UVAECZhx2zY6ukEnHAhMOBA&s'); /* Update with your image path */
+    /* background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .about-container {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+    max-width: 800px;
+    text-align: left;
+  }
+  
+  .about-container h2 {
+    font-size: 1.5rem; /* Smaller font size for the heading */
+    /* margin-bottom: 20px;
+  }
+  
+  .about-container p {
+    font-size: 1rem; /* Smaller font size for paragraphs */
+    /* margin-bottom: 10px;
+  }  */
+
+/* About.css */
+.about-bg {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCeju03n7p4g8UVAECZhx2zY6ukEnHAhMOBA&s'); /* Update with your background image path */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .about-container {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+    max-width: 800px;
+    text-align: left;
+  }
+  
+  .about-container h2 {
+    font-size: 1.5rem; /* Smaller font size for the heading */
+    margin-bottom: 20px;
+  }
+  
+  .about-container p {
+    font-size: 1rem; /* Smaller font size for paragraphs */
+    margin-bottom: 10px;
+  }
+  
+  .about-carousel {
+    margin-top: 20px;
+  }
+  
+  .carousel-item img {
+    height: 400px; /* Adjust the height as needed */
+    object-fit: cover;
+  }
+  
+    

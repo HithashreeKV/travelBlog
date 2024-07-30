@@ -1,0 +1,49 @@
+/* Guide.css */
+.guide-bg {
+    background-image: url('https://img.freepik.com/free-photo/pouch-map-toy-airplane-blue-background-with-space-writing-text_23-2147958180.jpg'); /* Update with your background image path */
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+  }
+  
+  .guide-container {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 5px;
+    color: white;
+    max-width: 1000px;
+    text-align: left;
+  }
+  
+  .guide-container h2 {
+    font-size: 1.5rem; /* Adjust font size as needed */
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .teacher-card {
+    margin-bottom: 20px;
+    background: #ffffff;
+    color: #000000;
+    padding-top: 20px;
+  }
+  
+  .teacher-card img {
+    height: 200px; /* Adjust image height as needed */
+    object-fit: cover;
+  }
+  .teacher-card{
+    height: 800px;
+    padding-top: 10px;
+
+
+  }
+  .btn{
+    background-color: green;
+    color: black;
+    align-content: center;
+  }
